@@ -9,7 +9,7 @@ Stay : Slay
 
 ---
 
-- [ ] JavaScript
+- [x] JavaScript
 >- [ ] Sem- IV Syllabus
 >>- [ ] GitHub use
 >>>- [ ] Ask DSA language
