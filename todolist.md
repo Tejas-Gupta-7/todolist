@@ -16,6 +16,9 @@ Stay : Slay
 >>>>- [ ] DSA (Leetcode)
 >>>>>- [ ] ChatBot (Infinity)
 >>>>>>- [ ] MERN Stack
+>>>>>>>- [ ] Make Resumé
+>>>>>>>>- [ ] Upload Portfolio
+>>>>>>>>>- [ ] Activate socialMediaAccounts
 
 ---
 :rocket:
