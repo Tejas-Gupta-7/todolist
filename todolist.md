@@ -2,7 +2,7 @@
 
 19-12-2023
 ```
-Stay : Slay
+Stay : Slay :rocket:
 ```
 
 ![Image](https://i.pinimg.com/originals/53/96/c2/5396c2561c99075688c061fb7f8354c5.gif)
@@ -18,10 +18,9 @@ Stay : Slay
 >>>>>>- [ ] MERN Stack
 >>>>>>>- [ ] Make Resumé
 >>>>>>>>- [ ] Upload Portfolio
->>>>>>>>>- [ ] Activate socialMediaAccounts
+>>>>>>>>>- [ ] activateSocialMediaAccounts
 
----
-:rocket:
+---
 
 
     Tejas' Codes :)
