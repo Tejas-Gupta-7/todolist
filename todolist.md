@@ -21,7 +21,7 @@ Stay : Slay
 >>>>>>>>>- [ ] Make Resumé
 >>>>>>>>>>- [ ] Upload Portfolio
 >>>>>>>>>>>- [ ] activateSocialMediaAccounts
->>>>>>>>>>>>- [ ] Upload Linktree
+>>>>>>>>>>>>- [x] Upload Linktree
 
 ---
 
