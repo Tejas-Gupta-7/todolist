@@ -12,7 +12,7 @@ Stay : Slay
 - [ ] JavaScript
 >- [ ] Sem- IV Syllabus
 >>- [ ] GitHub use
->>>- [ ] Ask DSA language
+>>>- [x] Ask DSA language
 >>>>- [ ] DSA (Leetcode)
 >>>>>- [ ] ChatBot (Infinity)
 >>>>>>- [ ] MERN Stack
