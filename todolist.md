@@ -22,6 +22,7 @@ Stay : Slay
 >>>>>>>>>>- [ ] Upload Portfolio
 >>>>>>>>>>>- [ ] activateSocialMediaAccounts
 >>>>>>>>>>>>- [x] Upload Linktree
+>>>>>>>>>>>>>- [ ] Mozilla and blotic
 
 ---
 
