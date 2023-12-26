@@ -23,6 +23,10 @@ Stay : Slay
 >>>>>>>>>>>- [ ] activateSocialMediaAccounts
 >>>>>>>>>>>>- [x] Upload Linktree
 >>>>>>>>>>>>>- [ ] Mozilla and blotic
+>>>>>>>>>>>>>>- [ ] Portfolio Animation
+>>>>>>>>>>>>>>>- [ ] View Counter
+>>>>>>>>>>>>>>>>- [ ] Coding Image
+>>>>>>>>>>>>>>>>>- [ ] More Content
 
 ---
 
