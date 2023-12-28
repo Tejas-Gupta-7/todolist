@@ -11,7 +11,7 @@ Stay : Slay
 
 - [ ] JavaScript
 >- [x] Sem- IV Syllabus
->>- [ ] GitHub use
+>>- [x] GitHub use
 >>>- [x] Ask DSA language
 >>>>- [ ] DSA (Leetcode)
 >>>>>- [ ] ChatBot (Infinity)
@@ -22,7 +22,7 @@ Stay : Slay
 >>>>>>>>>>- [ ] Upload Portfolio
 >>>>>>>>>>>- [ ] activateSocialMediaAccounts
 >>>>>>>>>>>>- [x] Upload Linktree
->>>>>>>>>>>>>- [ ] Mozilla and blotic
+>>>>>>>>>>>>>- [x] Mozilla and blotic
 >>>>>>>>>>>>>>- [ ] Portfolio Animation
 >>>>>>>>>>>>>>>- [ ] View Counter
 >>>>>>>>>>>>>>>>- [ ] Coding Image
