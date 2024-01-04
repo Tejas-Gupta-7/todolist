@@ -2,7 +2,7 @@
 
 19-12-2023
 ```
-Stay : Slay 
+Applied Tejas- 2024
 ```
 
 ![Image](https://static.wikia.nocookie.net/nitrome/images/b/b3/Space-hopper_idle.gif/revision/latest/thumbnail/width/160/height/160?cb=20181016181826])
@@ -17,12 +17,11 @@ Stay : Slay
 >>>>>- [ ] Understand stocks
 >>>>>>- [ ] Make Resumé
 >>>>>>>- [ ] Upload Portfolio
->>>>>>>>- [x] activateSocialMediaAccounts
->>>>>>>>>- [x] View Counter
->>>>>>>>>>- [ ] Coding Image
->>>>>>>>>>>- [ ] More Content
->>>>>>>>>>>>- [ ] Astronomy link
->>>>>>>>>>>>>- [ ] TG Logo
+>>>>>>>>- [x] View Counter
+>>>>>>>>>- [ ] Coding Image
+>>>>>>>>>>- [ ] More Content
+>>>>>>>>>>>- [ ] Astronomy link
+>>>>>>>>>>>>- [ ] TG Logo
 
 ---
 
