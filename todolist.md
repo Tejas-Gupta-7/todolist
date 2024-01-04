@@ -5,7 +5,7 @@
 Stay : Slay 
 ```
 
-![Image]([https://static.wikia.nocookie.net/nitrome/images/8/8a/Space-hopper_walk.gif](https://static.wikia.nocookie.net/nitrome/images/8/8a/Space-hopper_walk.gif))
+![Image](https://static.wikia.nocookie.net/nitrome/images/b/b3/Space-hopper_idle.gif/revision/latest/thumbnail/width/360/height/360?cb=20181016181826](https://static.wikia.nocookie.net/nitrome/images/b/b3/Space-hopper_idle.gif/revision/latest/thumbnail/width/360/height/360?cb=20181016181826))
 
 ---
 
