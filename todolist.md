@@ -10,26 +10,19 @@ Stay : Slay
 ---
 
 - [ ] JavaScript
->- [x] Sem- IV Syllabus
->>- [x] GitHub use
->>>- [x] Ask DSA language
->>>>- [ ] DSA (Leetcode)
->>>>>- [ ] ChatBot (Infinity)
->>>>>>- [ ] MERN Stack
->>>>>>>- [ ] Start earning
->>>>>>>>- [ ] Understand stocks
->>>>>>>>>- [ ] Make Resumé
->>>>>>>>>>- [ ] Upload Portfolio
->>>>>>>>>>>- [ ] activateSocialMediaAccounts
->>>>>>>>>>>>- [x] Upload Linktree
->>>>>>>>>>>>>- [x] Mozilla and blotic
->>>>>>>>>>>>>>- [x] Portfolio Animation
->>>>>>>>>>>>>>>- [ ] View Counter
->>>>>>>>>>>>>>>>- [ ] Coding Image
->>>>>>>>>>>>>>>>>- [ ] More Content
->>>>>>>>>>>>>>>>>>- [ ] Astronomy link
->>>>>>>>>>>>>>>>>>>- [x] Top image
->>>>>>>>>>>>>>>>>>>>- [ ] TG Logo
+>- [ ] DSA (Leetcode)
+>>- [ ] ChatBot (Infinity)
+>>>- [ ] MERN Stack
+>>>>- [ ] Start earning
+>>>>>- [ ] Understand stocks
+>>>>>>- [ ] Make Resumé
+>>>>>>>- [ ] Upload Portfolio
+>>>>>>>>- [ ] activateSocialMediaAccounts
+>>>>>>>>>- [ ] View Counter
+>>>>>>>>>>- [ ] Coding Image
+>>>>>>>>>>>- [ ] More Content
+>>>>>>>>>>>>- [ ] Astronomy link
+>>>>>>>>>>>>>- [ ] TG Logo
 
 ---
 
