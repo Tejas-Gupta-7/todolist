@@ -17,8 +17,8 @@ Stay : Slay
 >>>>>- [ ] Understand stocks
 >>>>>>- [ ] Make Resumé
 >>>>>>>- [ ] Upload Portfolio
->>>>>>>>- [ ] activateSocialMediaAccounts
->>>>>>>>>- [ ] View Counter
+>>>>>>>>- [x] activateSocialMediaAccounts
+>>>>>>>>>- [x] View Counter
 >>>>>>>>>>- [ ] Coding Image
 >>>>>>>>>>>- [ ] More Content
 >>>>>>>>>>>>- [ ] Astronomy link
