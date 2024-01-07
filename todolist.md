@@ -15,7 +15,7 @@ Applied Tejas - 2024
 >>>- [ ] MERN Stack
 >>>>- [ ] Start earning
 >>>>>- [ ] Understand stocks
->>>>>>- [ ] Make Resumé
+>>>>>>- [ ] Make Résumé
 >>>>>>>- [ ] Upload Portfolio
 >>>>>>>>- [x] View Counter
 >>>>>>>>>- [ ] Coding Image
