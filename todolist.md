@@ -22,6 +22,7 @@ Applied Tejas - 2024
 >>>>>>>>>>- [ ] More Content
 >>>>>>>>>>>- [ ] Astronomy link
 >>>>>>>>>>>>- [ ] TG Logo
+>>>>>>>>>>>>>- [ ] NPTEL
 
 ---
 
