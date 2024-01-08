@@ -13,7 +13,7 @@ Applied Tejas - 2024
 >- [ ] DSA (Leetcode)
 >>- [ ] ChatBot (Infinity)
 >>>- [ ] MERN Stack
->>>>- [ ]  increase income
+>>>>- [ ]  Increase Income
 >>>>>- [ ] Understand stocks
 >>>>>>- [ ] Make Résumé
 >>>>>>>- [ ] Upload Portfolio
