@@ -30,3 +30,12 @@ Applied Tejas - 2024
 :rocket:
 
     Tejas' Codes :)
+```
+11 January 2024
+```
+
+>- [ ] Malang meeting
+>>- [ ] Blotic website
+>>>- [ ] Mozilla update meeting
+>>>
+>>>- [ ] ---
