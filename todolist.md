@@ -43,5 +43,6 @@ Applied Tejas - 2024
 >>- [ ] Blotic website
 >>>- [ ] Mozilla update meeting
 >>>>- [ ] send coin photos to customer
+>>>>>- [ ] delivery shop
 
 ---
