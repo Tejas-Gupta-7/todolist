@@ -42,5 +42,6 @@ Applied Tejas - 2024
 >- [ ] Malang meeting
 >>- [ ] Blotic website
 >>>- [ ] Mozilla update meeting
+>>>>- [ ] send coin photos to customer
 
 ---
