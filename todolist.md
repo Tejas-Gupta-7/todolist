@@ -50,7 +50,7 @@ Malang | Bharatiyam 2024
 
 >- [x] Malang meeting
 >>- [ ] Blotic website
->>>- [ ] Mozilla update meeting
+>>>- [x] Mozilla update meeting
 >>>>- [ ] send coin photos to customer
 >>>>>- [ ] delivery shop
 
