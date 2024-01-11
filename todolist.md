@@ -48,7 +48,7 @@ Malang | Bharatiyam 2024
 11 January 2024
 ```
 
->- [ ] Malang meeting
+>- [x] Malang meeting
 >>- [ ] Blotic website
 >>>- [ ] Mozilla update meeting
 >>>>- [ ] send coin photos to customer
