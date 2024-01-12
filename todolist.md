@@ -26,7 +26,7 @@ Malang | Bharatiyam 2024
 >>>- [ ] MERN Stack
 >>>>- [ ]  Increase Income
 >>>>>- [ ] Understand stocks
->>>>>>- [ ] Make Résumé
+>>>>>>- [x] Make Résumé
 >>>>>>>- [ ] Upload Portfolio
 >>>>>>>>- [x] View Counter
 >>>>>>>>>- [ ] Coding Image
