@@ -53,5 +53,7 @@ Malang | Bharatiyam 2024
 >>>- [x] Mozilla update meeting
 >>>>- [x] send coin photos to customer
 >>>>>- [ ] delivery shop
+>>>>>>- [ ] dev rel tasks
+>>>>>>>- [ ] notes price
 
 ---
