@@ -54,6 +54,6 @@ Malang | Bharatiyam 2024
 >>>>- [x] send coin photos to customer
 >>>>>- [ ] delivery shop
 >>>>>>- [ ] dev rel tasks
->>>>>>>- [ ] notes price
+>>>>>>>- [x] notes price
 
 ---
