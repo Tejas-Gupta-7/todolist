@@ -9,7 +9,7 @@ Applied Tejas - 2024
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRydnRlYWI1NmxjbnhwN2plMWk3bGlhc3I0aGFsYnVha3dxY2JzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAt1B2nLoWyv5BHlOu/giphy.gif" width=30px>
 ---
 
->- [ ] Give Malang ideas
+>- [x] Give Malang ideas
 
 Malang | Bharatiyam 2024
 - pixel wall painting
@@ -53,7 +53,7 @@ Malang | Bharatiyam 2024
 >>>- [x] Mozilla update meeting
 >>>>- [x] send coin photos to customer
 >>>>>- [ ] delivery shop
->>>>>>- [ ] dev rel tasks
+>>>>>>- [x] dev rel tasks
 >>>>>>>- [x] notes price
 
 ---
