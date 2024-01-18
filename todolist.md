@@ -16,10 +16,10 @@ Malang | Trip
 >>>>- [ ] earphones
 >>>>>- [ ] first aid kit
 >>>>>>- [ ] Glucovita / ORS
->>>>>>>>- [ ] Snacks
->>>>>>>>>- [ ] bedsheet
->>>>>>>>>>>- [ ] clothes
->>>>>>>>>>>>- [ ] bandaids
+>>>>>>>- [ ] Snacks
+>>>>>>>>- [ ] bedsheet
+>>>>>>>>>>- [ ] clothes
+>>>>>>>>>>>- [ ] bandaids
 
 ---
 
