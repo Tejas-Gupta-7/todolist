@@ -58,5 +58,6 @@ Malang | Trip
 >>>>>- [ ] delivery shop
 >>>>>>- [x] dev rel tasks
 >>>>>>>- [x] notes price
+>>>>>>>>- [ ] vocational course
 
 ---
