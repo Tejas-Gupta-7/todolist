@@ -11,15 +11,15 @@ Applied Tejas - 2024
 
 Malang | Trip
 - [ ] Water bottle
->>- [ ] brush and mouth freshener
->>>- [ ] powerbank
->>>>- [ ] earphones
->>>>>- [ ] first aid kit
->>>>>>- [ ] Glucovita / ORS
->>>>>>>- [ ] Snacks
->>>>>>>>- [ ] bedsheet
->>>>>>>>>>- [ ] clothes
->>>>>>>>>>>- [ ] bandaids
+>- [ ] brush and mouth freshener
+>>- [ ] powerbank
+>>>- [ ] earphones
+>>>>- [ ] first aid kit
+>>>>>- [ ] Glucovita / ORS
+>>>>>>- [ ] Snacks
+>>>>>>>- [ ] bedsheet
+>>>>>>>>- [ ] clothes
+>>>>>>>>>- [ ] bandaids
 
 ---
 
