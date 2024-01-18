@@ -9,15 +9,19 @@ Applied Tejas - 2024
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRydnRlYWI1NmxjbnhwN2plMWk3bGlhc3I0aGFsYnVha3dxY2JzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAt1B2nLoWyv5BHlOu/giphy.gif" width=30px>
 ---
 
->- [x] Give Malang ideas
-
-Malang | Bharatiyam 2024
-- pixel wall painting
-- box building & light
-- laser art (mirrors & lenses)
-- something engineering + art
-- use lights
-
+Malang | Trip
+- [ ] Water bottle
+>- [ ] Torch
+>>- [ ] bedsheet
+>>>- [ ] powerbank
+>>>>- [ ] earphones
+>>>>>- [ ] first aid kit
+>>>>>>- [ ] Glucovita / ORS
+>>>>>>>- [ ] Bandages + crape bandage
+>>>>>>>>- [ ] Snacks
+>>>>>>>>>- [ ] brush and mouth freshener
+>>>>>>>>>>- [ ] binoculars
+>>>>>>>>>>>- [ ] clothes
 ---
 
 - [ ] JavaScript
