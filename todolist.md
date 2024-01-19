@@ -13,10 +13,10 @@ Malang | Trip
 - [x] Water bottle
 >- [x] brush and mouth freshener
 >>- [x] powerbank
->>>- [ ] earphones
+>>>- [x] earphones
 >>>>- [x] first aid kit
 >>>>>- [x] Glucovita / ORS
->>>>>>- [ ] Snacks
+>>>>>>- [x] Snacks
 >>>>>>>- [x] bedsheet
 >>>>>>>>- [x] clothes
 >>>>>>>>>- [x] bandaids
