@@ -21,6 +21,10 @@ Malang | Trip
 >>>>>>>>- [ ] clothes
 >>>>>>>>>- [ ] bandaids
 
+head?
+delivery shop?
+magazine photoshoot?
+
 ---
 
 - [ ] JavaScript
