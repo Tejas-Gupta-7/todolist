@@ -41,7 +41,7 @@ delivery shop?
 ```
 
 >- [x] Malang meeting
->>- [ ] Blotic website
+>>- [x] Blotic website
 >>>- [x] Mozilla update meeting
 >>>>- [x] send coin photos to customer
 >>>>>- [ ] delivery shop
