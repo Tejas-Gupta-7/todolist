@@ -18,14 +18,12 @@ delivery shop?
 >>>- [ ] MERN Stack
 >>>>- [ ]  Increase Income
 >>>>>- [ ] Understand stocks
->>>>>>- [x] Make Résumé
->>>>>>>- [ ] Upload Portfolio
->>>>>>>>- [x] View Counter
->>>>>>>>>- [ ] Coding Image
->>>>>>>>>>- [ ] More Content
->>>>>>>>>>>- [ ] Astronomy link
->>>>>>>>>>>>- [ ] TG Logo
->>>>>>>>>>>>>- [ ] API
+>>>>>>- [ ] Upload Portfolio
+>>>>>>>- [ ] Coding Image
+>>>>>>>>- [ ] More Content
+>>>>>>>>>- [ ] Astronomy link
+>>>>>>>>>>- [ ] TG Logo
+>>>>>>>>>>>- [ ] API
 
 ---
 
@@ -40,13 +38,7 @@ delivery shop?
 11 January 2024
 ```
 
->- [x] Malang meeting
->>- [x] Blotic website
->>>- [x] Mozilla update meeting
->>>>- [x] send coin photos to customer
->>>>>- [ ] delivery shop
->>>>>>- [x] dev rel tasks
->>>>>>>- [x] notes price
->>>>>>>>- [ ] vocational course
+>- [ ] delivery shop
+>>- [ ] vocational course
 
 ---
